@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webpagereact/static/css/main.76c5e01a.chunk.css",
+    "main.js": "/webpagereact/static/js/main.253f20ab.chunk.js",
+    "main.js.map": "/webpagereact/static/js/main.253f20ab.chunk.js.map",
+    "runtime-main.js": "/webpagereact/static/js/runtime-main.57ee2b40.js",
+    "runtime-main.js.map": "/webpagereact/static/js/runtime-main.57ee2b40.js.map",
+    "static/js/2.705f2aa0.chunk.js": "/webpagereact/static/js/2.705f2aa0.chunk.js",
+    "static/js/2.705f2aa0.chunk.js.map": "/webpagereact/static/js/2.705f2aa0.chunk.js.map",
+    "static/js/3.aebfdff9.chunk.js": "/webpagereact/static/js/3.aebfdff9.chunk.js",
+    "static/js/3.aebfdff9.chunk.js.map": "/webpagereact/static/js/3.aebfdff9.chunk.js.map",
+    "index.html": "/webpagereact/index.html",
+    "static/css/main.76c5e01a.chunk.css.map": "/webpagereact/static/css/main.76c5e01a.chunk.css.map",
+    "static/js/2.705f2aa0.chunk.js.LICENSE.txt": "/webpagereact/static/js/2.705f2aa0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/webpagereact/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57ee2b40.js",
+    "static/js/2.705f2aa0.chunk.js",
+    "static/css/main.76c5e01a.chunk.css",
+    "static/js/main.253f20ab.chunk.js"
+  ]
+}
